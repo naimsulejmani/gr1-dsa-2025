@@ -7,6 +7,7 @@ public class QueueDemo {
         listaEPritjes.enqueue("Mirlindi");
         listaEPritjes.enqueue("Edona");
         listaEPritjes.enqueue("SpoDiKush");
+        listaEPritjes.enqueue("Test");
         System.out.println(listaEPritjes.size());
         System.out.println(listaEPritjes.dequeue());
     }
